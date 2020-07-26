@@ -1,0 +1,1 @@
+This project searches for the customers with the highest sales, products with the highest return right, a chart showing the highest sales based on each area.
